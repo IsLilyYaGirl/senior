@@ -15,7 +15,7 @@ ANOTHER NOTE: Commas are always 100% optional.
 	___GET OFF MY PROPERTY,___ _text_                                           
 * Gotos:                                                   
 	_(Line numbers begin at 1)_                                               
-	___GET AWAY FROM___ _line_
+	___GET AWAY FROM___ _line_                                            
 	___GET AWAY FROM ME,___ _line_
 * If statement:                                   
 	_(Will execute code after statements if "expression" returns TRUE)_                                 
