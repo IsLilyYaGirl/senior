@@ -21,7 +21,7 @@ ANOTHER NOTE: Commas are always 100% optional and will be removed at end of word
 	_(Will execute code after statements if "expression" returns TRUE)_                                 
 	___WHEN___ _expression_ __THAT BOY WILL__ _statement_                
 * Order of Maths and Operators:                               
-	_(DMASCLGEO)_                      
+	_(DMASCGLEO)_                      
 	Order of execution as follows from left to right: / (Divide), \* (Multiply), + (Add), - (Subtract), .. (Concat), > (Greater than), < (Less than), = (Equals), OPPOSITE (Not)                                 
 * Variables:                    
 	Reference variables by typing _\*name\* (For example: GET OFF MY LAWN \*FOO\*)_                            
