@@ -5,7 +5,7 @@ A programming language, made for roughly the same reason as rockstar was.
 ## Syntax
 NOTE: This language is written in all caps, so don't be alarmed.                       
 ANOTHER NOTE: This language ignores "'CAUSE" for reasons of unsimplicity.                                            
-ANOTHER NOTE: Commas are always 100% optional and will be removed at end of word (but you can escape them with "\\,").
+ANOTHER NOTE: Commas are always 100% optional and will be removed at end of word (but you can escape them by doing "\\,").
 * Printing:                                  
 	_This programming language has way too many print statements, so here's all of them:_                
 	___GET OFF MY LAWN,___ _text_                                           
